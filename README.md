@@ -4,8 +4,17 @@ My overall goal is to become a great software engineer who can make impact to an
 ## Goals
 - Fortify my foundation in Computer Science principles and software development best practises.
 - Transition from novice to a senior software engineer with the required skills to build and deploy high quality software.
+- Get hired.
 
 ## Skills to Improve
-- Programming languages: ```Python, JavaScript, Golang.```
-- Technologies: ```Git, SQL``` and JS frameworks.
+- Programming languages: 
+  - ```Python```
+  - ```JavaScript```
+  - ```Golang.```
+  - ```c```
+  - ```c++```
+- Technologies: 
+  - ```Git```
+  - ```SQL```
+  - ```JS frameworks```
 - Write clean code.
